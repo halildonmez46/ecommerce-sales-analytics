@@ -10,7 +10,7 @@ Proje kapsamında geliştirilen Power BI dashboardu satış performansını ve m
 
 Aylık satış hacmini incelemek amacıyla satış trendi analizi yapılmıştır.
 
-![Monthly Sales](images/monthly_sales_trend.png)
+![Monthly Sales](images/Monthly Sales Volume.png)
 
 
 ## 👥 Customer Segmentation (RFM)
