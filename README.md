@@ -1,5 +1,5 @@
 📊 E-Ticaret Analitiği ve Müşteri Zekası Projesi
-
+![Dashboard](images/dashboard.png)
 Bu projede e-ticaret işlem verileri üzerinde uçtan uca bir veri analizi çalışması gerçekleştirilmiştir. Yaklaşık 50.000 işlemden oluşan bir veri seti kullanılarak müşteri davranışları, satış dağılımları ve müşteri değerine yönelik analizler yapılmıştır.
 
 Projenin temel amacı; satış performansını incelemek, müşteri davranışlarını anlamak ve veri analizi yöntemleri kullanarak müşteri segmentleri oluşturmaktır. Bu süreçte veri analizi pipeline’ının farklı aşamaları uygulanmıştır.
